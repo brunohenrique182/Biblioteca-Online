@@ -10,16 +10,16 @@ Figma> https://www.figma.com/file/dLOn4UQyFMspWEeaHA5suz/Biblioteca-Online?node-
 ### Cronograma
 
 AA1:
-Estrutura do Projeto
-React Navigation
-Telas
+*Estrutura do Projeto
+*React Navigation
+\*Telas
 
 AA2:
-Style e Layouts
-Menus
-REST
-Backgroud Tasks
-alerts
+*Style e Layouts
+*Menus
+*REST
+*Backgroud Tasks
+\*alerts
 
 Projeto Final
-API Livros
+\*API Livros
